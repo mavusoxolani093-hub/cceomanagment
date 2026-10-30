@@ -1,0 +1,2119 @@
+{
+  "source": "E_Squared_CEO_LinkedIn_Management_Proposal.docx",
+  "output": "E_Squared_LinkedIn_Proposal_Complete.pdf",
+  "pdf_pages": 11,
+  "source_nonempty_paragraphs": 55,
+  "source_tables": 19,
+  "source_table_rows": 135,
+  "source_nonempty_table_cells": 355,
+  "content_checks": 421,
+  "missing_items": [],
+  "notes": "All source paragraphs and all non-empty table cell lines were checked against the final PDF. Multiline cover and final contact details were rearranged visually but retained. Blank acceptance/signature fields remain in the layout. Page text is unchanged from the preceding version.",
+  "checks": [
+    {
+      "location": "Paragraph 4",
+      "text": "CONTENTS",
+      "present": true
+    },
+    {
+      "location": "Paragraph 5",
+      "text": "01    Executive Summary",
+      "present": true
+    },
+    {
+      "location": "Paragraph 6",
+      "text": "02    Understanding Gladwyn and E Squared",
+      "present": true
+    },
+    {
+      "location": "Paragraph 7",
+      "text": "03    Positioning & Content Strategy",
+      "present": true
+    },
+    {
+      "location": "Paragraph 8",
+      "text": "04    Recommended Scope of Services",
+      "present": true
+    },
+    {
+      "location": "Paragraph 9",
+      "text": "05    Service Options & Monthly Fees",
+      "present": true
+    },
+    {
+      "location": "Paragraph 10",
+      "text": "06    One-Off Onboarding & Profile Optimisation",
+      "present": true
+    },
+    {
+      "location": "Paragraph 11",
+      "text": "07    Workflow, Approvals & Account Access",
+      "present": true
+    },
+    {
+      "location": "Paragraph 12",
+      "text": "08    Reporting & KPIs",
+      "present": true
+    },
+    {
+      "location": "Paragraph 13",
+      "text": "09    Compliance, Reputation & Ethics",
+      "present": true
+    },
+    {
+      "location": "Paragraph 14",
+      "text": "10    Timeline: First 60 Days",
+      "present": true
+    },
+    {
+      "location": "Paragraph 15",
+      "text": "11    Terms, Assumptions & Exclusions",
+      "present": true
+    },
+    {
+      "location": "Paragraph 16",
+      "text": "12    What We Need From You & Acceptance",
+      "present": true
+    },
+    {
+      "location": "Paragraph 18",
+      "text": "1.  Executive Summary",
+      "present": true
+    },
+    {
+      "location": "Paragraph 19",
+      "text": "Thank you for the brief. You asked us to strengthen Gladwyn's professional presence on LinkedIn, position him as a thought leader in the investment and entrepreneurship ecosystem, and keep his content aligned with his role as CEO and E Squared's broader positioning. You also asked for options depending on how much engagement management is included.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 20",
+      "text": "Our answer is a three-level service built around the same foundation: two posts a month in Gladwyn's own voice, designed and published, a profile audit and optimisation at the start, and a monthly report. The levels differ in how much active engagement they include, from a weekly review with draft replies (Option 1), through daily monitoring, proactive comments and stakeholder outreach (Option 2), to a fuller programme with more content, long-form pieces and fresh imagery (Option 3).",
+      "present": true
+    },
+    {
+      "location": "Paragraph 21",
+      "text": "We recommend Option 2. A CEO's LinkedIn presence is built as much in other people's comments and conversations as in his own posts, and Option 2 is the level at which that engagement is managed properly while the monthly publishing stays at the two posts you asked for.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 23",
+      "text": "2.  Understanding Gladwyn and E Squared",
+      "present": true
+    },
+    {
+      "location": "Paragraph 24",
+      "text": "The points below come from public reporting and E Squared's own communications, and we would confirm them with your team before using them in any content. We have not yet seen Gladwyn's current LinkedIn profile or analytics, so the audit in the first weeks will establish the starting point.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 25",
+      "text": "3.  Positioning & Content Strategy",
+      "present": true
+    },
+    {
+      "location": "Paragraph 26",
+      "text": "The aim is a presence that reads as Gladwyn's own: a thoughtful investor and former operator who speaks plainly about capital, founders and responsible growth. We propose five content pillars.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 28",
+      "text": "How We Keep the Voice His Own",
+      "present": true
+    },
+    {
+      "location": "Paragraph 29",
+      "text": "A 90-minute voice workshop and a written voice guide at the start, covering his phrases, tone and topics he avoids.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 30",
+      "text": "Every post is drafted from his own ideas, interviews and published words, and approved by him before it is published.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 31",
+      "text": "A first-person voice, plain language and a clear point of view, avoiding corporate boilerplate.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 32",
+      "text": "Coordination with E Squared's company page so that his posts complement the organisation's content rather than repeat it.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 33",
+      "text": "4.  Recommended Scope of Services",
+      "present": true
+    },
+    {
+      "location": "Paragraph 35",
+      "text": "Optional Add-Ons (quoted on request)",
+      "present": true
+    },
+    {
+      "location": "Paragraph 36",
+      "text": "Executive Leadership Magazine or SME Entrepreneur Magazine profile, column or SME PowerTalk podcast guest appearance, labelled as partner content where applicable, which also supplies material for LinkedIn.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 37",
+      "text": "A short video series of two to three minutes with Gladwyn on founder and investor topics.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 38",
+      "text": "Support for E Squared's company page, so the CEO and company presence work together.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 39",
+      "text": "Speaker-profile and event-promotion support for conferences where Gladwyn is a speaker.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 40",
+      "text": "5.  Service Options & Monthly Fees",
+      "present": true
+    },
+    {
+      "location": "Paragraph 41",
+      "text": "All fees exclude VAT at 15%. The one-off onboarding fee in Section 6 applies to every option.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 42",
+      "text": "Option 1: Publish & Report",
+      "present": true
+    },
+    {
+      "location": "Paragraph 44",
+      "text": "Option 2: Publish & Engage (Recommended)",
+      "present": true
+    },
+    {
+      "location": "Paragraph 46",
+      "text": "Option 3: Publish, Engage & Amplify",
+      "present": true
+    },
+    {
+      "location": "Paragraph 48",
+      "text": "6.  One-Off Onboarding & Profile Optimisation",
+      "present": true
+    },
+    {
+      "location": "Paragraph 50",
+      "text": "First-Year Investment",
+      "present": true
+    },
+    {
+      "location": "Paragraph 51",
+      "text": "7.  Workflow, Approvals & Account Access",
+      "present": true
+    },
+    {
+      "location": "Paragraph 53",
+      "text": "8.  Reporting & KPIs",
+      "present": true
+    },
+    {
+      "location": "Paragraph 54",
+      "text": "We set the baseline in the first month and agree targets once we know where the profile stands. We do not promise a number of followers or views, because LinkedIn's reach depends on many factors and on Gladwyn's own participation.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 55",
+      "text": "9.  Compliance, Reputation & Ethics",
+      "present": true
+    },
+    {
+      "location": "Paragraph 56",
+      "text": "10.  Timeline: First 60 Days",
+      "present": true
+    },
+    {
+      "location": "Paragraph 58",
+      "text": "From January 2027 the programme follows the monthly cycle in Section 7, with a quarterly strategy review in Options 2 and 3. If E Squared signs later than 6 November, the dates move back by the same number of days.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 59",
+      "text": "11.  Terms, Assumptions & Exclusions",
+      "present": true
+    },
+    {
+      "location": "Paragraph 60",
+      "text": "Term and payment. A six-month minimum term, then month to month with 30 days' notice. Monthly fees are billed in advance, and the one-off fee is invoiced on signature. Fees are reviewed annually.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 61",
+      "text": "Validity. Valid until Friday, 27 November 2026. Fees exclude VAT at 15%.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 62",
+      "text": "Client inputs. Gladwyn or his office approves content within 48 hours, provides input for the monthly calendar and joins a short call each quarter. Delays in approval affect the posting schedule but not the fees.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 63",
+      "text": "Additional work. Extra posts above the plan are R2,150 each (R1,500 writing and R650 design). Additional comments, outreach and research are billed at R750 per hour by agreement.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 64",
+      "text": "Exclusions. Paid LinkedIn advertising and its media spend, LinkedIn Premium or Sales Navigator licences, travel, and external photography and video outside the Option 3 sessions.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 65",
+      "text": "No guarantees. We do not guarantee follower numbers, impressions, leads or any specific outcome.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 66",
+      "text": "Ownership. E Squared owns the content we produce for Gladwyn once paid. We may cite the work in our portfolio only with E Squared's written approval.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 67",
+      "text": "Confidentiality. We keep information about E Squared and its portfolio confidential and sign a confidentiality agreement on request.",
+      "present": true
+    },
+    {
+      "location": "Paragraph 68",
+      "text": "12.  What We Need From You & Acceptance",
+      "present": true
+    },
+    {
+      "location": "Table 1, row 1, cell 1",
+      "text": "EXECUTIVE LINKEDIN PRESENCE PROPOSAL",
+      "present": true
+    },
+    {
+      "location": "Table 1, row 1, cell 1",
+      "text": "GLADWYN LEEUW",
+      "present": true
+    },
+    {
+      "location": "Table 1, row 1, cell 1",
+      "text": "CEO, E Squared Investments",
+      "present": true
+    },
+    {
+      "location": "Table 1, row 1, cell 1",
+      "text": "Content  ·  Engagement  ·  Network growth  ·  Profile optimisation  ·  Reporting",
+      "present": true
+    },
+    {
+      "location": "Table 1, row 1, cell 1",
+      "text": "Three levels of support, priced monthly",
+      "present": true
+    },
+    {
+      "location": "Table 1, row 1, cell 1",
+      "text": "Prepared for E Squared Investments",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 1, cell 1",
+      "text": "Prepared for",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 1, cell 2",
+      "text": "E Squared Investments, Office of the CEO",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 2, cell 1",
+      "text": "Prepared by",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 2, cell 2",
+      "text": "Teluka Mzuri Strategic Branding & Corporate Communications",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 3, cell 1",
+      "text": "Proposal date",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 3, cell 2",
+      "text": "28 October 2026  (requested by Friday, 30 October 2026)",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 4, cell 1",
+      "text": "Valid until",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 4, cell 2",
+      "text": "Friday, 27 November 2026",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 5, cell 1",
+      "text": "Option 1: Publish & Report",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 5, cell 2",
+      "text": "R 9,500 per month excl. VAT",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 6, cell 1",
+      "text": "Option 2: Publish & Engage (recommended)",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 6, cell 2",
+      "text": "R 19,400 per month excl. VAT",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 7, cell 1",
+      "text": "Option 3: Publish, Engage & Amplify",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 7, cell 2",
+      "text": "R 36,800 per month excl. VAT",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 8, cell 1",
+      "text": "One-off onboarding & profile optimisation",
+      "present": true
+    },
+    {
+      "location": "Table 2, row 8, cell 2",
+      "text": "R 14,000 excl. VAT (plus R2,000 stakeholder map for Options 2 and 3)",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 1, cell 2",
+      "text": "Option 1",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 1, cell 2",
+      "text": "Publish & Report",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 1, cell 3",
+      "text": "Option 2",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 1, cell 3",
+      "text": "Publish & Engage",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 1, cell 4",
+      "text": "Option 3",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 1, cell 4",
+      "text": "Publish, Engage & Amplify",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 2, cell 1",
+      "text": "Monthly fee (excl. VAT)",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 2, cell 2",
+      "text": "R 9,500",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 2, cell 3",
+      "text": "R 19,400",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 2, cell 4",
+      "text": "R 36,800",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 3, cell 1",
+      "text": "Posts a month",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 3, cell 2",
+      "text": "2",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 3, cell 3",
+      "text": "2",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 3, cell 4",
+      "text": "4",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 4, cell 1",
+      "text": "Engagement management",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 4, cell 2",
+      "text": "Weekly review, draft replies",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 4, cell 3",
+      "text": "Daily review, replies within one business day",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 4, cell 4",
+      "text": "Daily review, same-day replies, message triage",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 5, cell 1",
+      "text": "Proactive comments a month",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 5, cell 2",
+      "text": "None",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 5, cell 3",
+      "text": "12",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 5, cell 4",
+      "text": "25",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 6, cell 1",
+      "text": "Outreach drafts a month",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 6, cell 2",
+      "text": "None",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 6, cell 3",
+      "text": "Up to 10",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 6, cell 4",
+      "text": "Up to 20",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 7, cell 1",
+      "text": "Long-form article or newsletter",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 7, cell 2",
+      "text": "No",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 7, cell 3",
+      "text": "No",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 7, cell 4",
+      "text": "Quarterly",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 8, cell 1",
+      "text": "Content session (photo and video)",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 8, cell 2",
+      "text": "No",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 8, cell 3",
+      "text": "No",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 8, cell 4",
+      "text": "Quarterly",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 9, cell 1",
+      "text": "Monthly report",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 9, cell 2",
+      "text": "Standard",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 9, cell 3",
+      "text": "With insights",
+      "present": true
+    },
+    {
+      "location": "Table 3, row 9, cell 4",
+      "text": "With insights and peer benchmarking",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 1, cell 1",
+      "text": "The firm",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 1, cell 2",
+      "text": "E Squared Investments is an impact investment fund that backs responsible entrepreneurs across the journey: pre-seed programmes, early-stage investment, co-investment, fund partnerships, social entrepreneurship and venture philanthropy. It backs ventures founded by Allan Gray Fellows and is a strategic partner to Allan & Gill Gray Philanthropies.",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 2, cell 1",
+      "text": "The 2025 Impact Report",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 2, cell 2",
+      "text": "R316m invested in 2025 and R1.34bn across 227 businesses since inception; 37,756 jobs created, supported and beneficiated; 92% of 2025 investment value directed to Black beneficiaries and 62% to Black women-owned businesses; 16% fair market value growth in the venture portfolio and R31m realised from partial exits in 2025.",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 3, cell 1",
+      "text": "Gladwyn Leeuw",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 3, cell 2",
+      "text": "CEO since September 2023. Previously a General Partner at Kingson Capital, where he led post-investment management; earlier roles at Anglo American's Zimele enterprise and supplier development arm and on the senior executive team at CCI South Africa; founder of a peer-to-peer lending fintech platform; degrees from Wits and Wits Business School.",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 4, cell 1",
+      "text": "His public themes",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 4, cell 2",
+      "text": "Scaling with purpose; responsible entrepreneurship, meaning running a successful business while having a positive impact on society; patient, long-term capital; and the view that financial performance and social impact are mutually reinforcing.",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 5, cell 1",
+      "text": "The opportunity",
+      "present": true
+    },
+    {
+      "location": "Table 4, row 5, cell 2",
+      "text": "Gladwyn has a credible, distinctive story and real numbers behind it. LinkedIn is where founders, co-investors, fund managers, corporates and policymakers in his ecosystem form impressions, and a consistent, personal voice there strengthens trust in E Squared.",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 1, cell 1",
+      "text": "Pillar",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 1, cell 2",
+      "text": "What it covers",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 1, cell 3",
+      "text": "Example direction (illustrative, for approval)",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 2, cell 1",
+      "text": "Responsible entrepreneurship",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 2, cell 2",
+      "text": "What it means to build a business that also serves society",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 2, cell 3",
+      "text": "Why “scaling with purpose” is a business discipline, not a slogan",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 3, cell 1",
+      "text": "Capital and access",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 3, cell 2",
+      "text": "The state of funding for South African and African founders",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 3, cell 3",
+      "text": "What patient capital means when capital is scarce and the margin for error is limited",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 4, cell 1",
+      "text": "Lessons from the portfolio",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 4, cell 2",
+      "text": "What E Squared learns from backing 227 businesses, shared with founder consent",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 4, cell 3",
+      "text": "Three things that separate founders who last",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 5, cell 1",
+      "text": "Ecosystem and inclusion",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 5, cell 2",
+      "text": "Transformation, women-owned businesses and the wider investment landscape",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 5, cell 3",
+      "text": "What it takes to direct capital towards Black women-owned businesses and see them thrive",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 6, cell 1",
+      "text": "Leadership and lessons",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 6, cell 2",
+      "text": "Gladwyn's own journey from enterprise development to venture capital to CEO",
+      "present": true
+    },
+    {
+      "location": "Table 5, row 6, cell 3",
+      "text": "What running post-investment support taught me about founders",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 1, cell 1",
+      "text": "Your requirement",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 1, cell 2",
+      "text": "What we deliver",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 1, cell 3",
+      "text": "Where it sits",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 2, cell 1",
+      "text": "Content development and publishing: two posts a month",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 2, cell 2",
+      "text": "Research, writing, design and publishing support for two posts a month, from an approved monthly calendar",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 2, cell 3",
+      "text": "All options (four posts in Option 3)",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 3, cell 1",
+      "text": "Engagement management",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 3, cell 2",
+      "text": "Monitoring and replying to comments, messages and queries, and escalation of anything sensitive, under agreed guidelines",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 3, cell 3",
+      "text": "Weekly in Option 1; daily in Options 2 and 3",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 4, cell 1",
+      "text": "Network growth and visibility",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 4, cell 2",
+      "text": "A stakeholder map, proactive comments on relevant conversations and personalised connection requests drafted for his approval",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 4, cell 3",
+      "text": "Options 2 and 3",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 5, cell 1",
+      "text": "Profile audit and optimisation",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 5, cell 2",
+      "text": "A full audit, rewritten profile sections, new banner and a 90-day plan, delivered in the first four weeks",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 5, cell 3",
+      "text": "One-off, all options",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 6, cell 1",
+      "text": "Reporting",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 6, cell 2",
+      "text": "A monthly report on content performance, engagement and audience growth, with a quarterly strategy review in Options 2 and 3",
+      "present": true
+    },
+    {
+      "location": "Table 6, row 6, cell 3",
+      "text": "All options",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 1, cell 1",
+      "text": "Monthly component",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 1, cell 2",
+      "text": "What it includes",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 1, cell 3",
+      "text": "Fee (excl. VAT)",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 2, cell 1",
+      "text": "Content development (2 posts × R1,500)",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 2, cell 2",
+      "text": "Two posts a month written in Gladwyn's voice, drawn from his views and E Squared's investment focus",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 2, cell 3",
+      "text": "R 3,000",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 3, cell 1",
+      "text": "Post design (2 × R650)",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 3, cell 2",
+      "text": "A branded graphic, carousel or image for each post",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 3, cell 3",
+      "text": "R 1,300",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 4, cell 1",
+      "text": "Publishing support",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 4, cell 2",
+      "text": "Scheduling and publishing, or a ready-to-post pack, using the access method agreed in Section 7",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 4, cell 3",
+      "text": "R 600",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 5, cell 1",
+      "text": "Weekly monitoring & draft replies",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 5, cell 2",
+      "text": "A weekly review of comments, messages and mentions, with draft replies sent for approval",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 5, cell 3",
+      "text": "R 1,800",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 6, cell 1",
+      "text": "Monthly performance report",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 6, cell 2",
+      "text": "Content performance, engagement and audience growth, with short commentary",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 6, cell 3",
+      "text": "R 1,500",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 7, cell 1",
+      "text": "Account management",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 7, cell 2",
+      "text": "A named lead, the monthly content calendar and approvals tracking",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 7, cell 3",
+      "text": "R 1,300",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 8, cell 1",
+      "text": "Monthly total",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 8, cell 2",
+      "text": "Best for a steady, low-touch presence with Gladwyn or his office handling most replies",
+      "present": true
+    },
+    {
+      "location": "Table 7, row 8, cell 3",
+      "text": "R 9,500",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 1, cell 1",
+      "text": "Monthly component",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 1, cell 2",
+      "text": "What it includes",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 1, cell 3",
+      "text": "Fee (excl. VAT)",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 2, cell 1",
+      "text": "Content development (2 posts × R1,500)",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 2, cell 2",
+      "text": "Two posts a month written in Gladwyn's voice",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 2, cell 3",
+      "text": "R 3,000",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 3, cell 1",
+      "text": "Post design (2 × R650)",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 3, cell 2",
+      "text": "A branded graphic, carousel or image for each post",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 3, cell 3",
+      "text": "R 1,300",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 4, cell 1",
+      "text": "Publishing support",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 4, cell 2",
+      "text": "Scheduling and publishing, or a ready-to-post pack",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 4, cell 3",
+      "text": "R 600",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 5, cell 1",
+      "text": "Weekday monitoring & reply management",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 5, cell 2",
+      "text": "Comments, messages and mentions reviewed each business day, with replies within one business day under agreed guidelines and sensitive items escalated",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 5, cell 3",
+      "text": "R 4,500",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 6, cell 1",
+      "text": "Proactive engagement (12 comments a month)",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 6, cell 2",
+      "text": "Thoughtful comments on posts by identified investors, founders, policymakers and ecosystem leaders",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 6, cell 3",
+      "text": "R 2,400",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 7, cell 1",
+      "text": "Stakeholder map & monthly refresh",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 7, cell 2",
+      "text": "A target list of about 60 relevant people and organisations, refreshed each month",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 7, cell 3",
+      "text": "R 1,500",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 8, cell 1",
+      "text": "Connection & outreach drafts (up to 10 a month)",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 8, cell 2",
+      "text": "Personalised connection requests and messages, drafted for Gladwyn's approval",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 8, cell 3",
+      "text": "R 1,500",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 9, cell 1",
+      "text": "Monthly report with insights",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 9, cell 2",
+      "text": "Performance, audience growth, what worked and next month's focus",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 9, cell 3",
+      "text": "R 2,000",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 10, cell 1",
+      "text": "Quarterly strategy review",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 10, cell 2",
+      "text": "A 45-minute review of results and priorities",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 10, cell 3",
+      "text": "R 600",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 11, cell 1",
+      "text": "Account management",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 11, cell 2",
+      "text": "A named lead, the monthly content calendar and approvals tracking",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 11, cell 3",
+      "text": "R 2,000",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 12, cell 1",
+      "text": "Monthly total",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 12, cell 2",
+      "text": "Best for a managed presence with active engagement and network growth",
+      "present": true
+    },
+    {
+      "location": "Table 8, row 12, cell 3",
+      "text": "R 19,400",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 1, cell 1",
+      "text": "Monthly component",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 1, cell 2",
+      "text": "What it includes",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 1, cell 3",
+      "text": "Fee (excl. VAT)",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 2, cell 1",
+      "text": "Content development (4 posts × R1,500)",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 2, cell 2",
+      "text": "Four posts a month, mixing perspective, portfolio and ecosystem topics",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 2, cell 3",
+      "text": "R 6,000",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 3, cell 1",
+      "text": "Post design (4 × R650)",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 3, cell 2",
+      "text": "A branded graphic, carousel or image for each post",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 3, cell 3",
+      "text": "R 2,600",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 4, cell 1",
+      "text": "Publishing support",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 4, cell 2",
+      "text": "Scheduling and publishing, or ready-to-post packs",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 4, cell 3",
+      "text": "R 900",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 5, cell 1",
+      "text": "Weekday monitoring, reply management & message triage",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 5, cell 2",
+      "text": "Daily review with same-day replies where agreed, and triage of investor and founder messages to the right E Squared contact",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 5, cell 3",
+      "text": "R 5,500",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 6, cell 1",
+      "text": "Proactive engagement (25 comments a month)",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 6, cell 2",
+      "text": "A higher volume of considered comments on identified stakeholders' posts",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 6, cell 3",
+      "text": "R 5,000",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 7, cell 1",
+      "text": "Stakeholder map & monthly refresh",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 7, cell 2",
+      "text": "A target list of about 60 relevant people and organisations, refreshed each month",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 7, cell 3",
+      "text": "R 1,500",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 8, cell 1",
+      "text": "Connection & outreach drafts (up to 20 a month)",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 8, cell 2",
+      "text": "Personalised requests and messages, drafted for approval",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 8, cell 3",
+      "text": "R 3,000",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 9, cell 1",
+      "text": "Quarterly long-form article or newsletter edition",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 9, cell 2",
+      "text": "One article or newsletter edition a quarter (R5,400 a quarter)",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 9, cell 3",
+      "text": "R 1,800",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 10, cell 1",
+      "text": "Quarterly content session",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 10, cell 2",
+      "text": "A photo and short-video session for fresh imagery and clips (R10,500 a quarter)",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 10, cell 3",
+      "text": "R 3,500",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 11, cell 1",
+      "text": "Event live posting (up to 4 events a year)",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 11, cell 2",
+      "text": "Live posts and a recap from conferences and E Squared events (R8,400 a year)",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 11, cell 3",
+      "text": "R 700",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 12, cell 1",
+      "text": "Monthly report with insights",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 12, cell 2",
+      "text": "Performance, audience growth, benchmarking against peers and next month's focus",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 12, cell 3",
+      "text": "R 2,500",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 13, cell 1",
+      "text": "Quarterly strategy review",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 13, cell 2",
+      "text": "A 45-minute review of results and priorities",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 13, cell 3",
+      "text": "R 800",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 14, cell 1",
+      "text": "Account management",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 14, cell 2",
+      "text": "A named lead, the monthly content calendar and approvals tracking",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 14, cell 3",
+      "text": "R 3,000",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 15, cell 1",
+      "text": "Monthly total",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 15, cell 2",
+      "text": "Best for a high-visibility programme with more content, long-form pieces and fresh imagery",
+      "present": true
+    },
+    {
+      "location": "Table 9, row 15, cell 3",
+      "text": "R 36,800",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 1, cell 1",
+      "text": "Item",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 1, cell 2",
+      "text": "What it includes",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 1, cell 3",
+      "text": "Fee (excl. VAT)",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 2, cell 1",
+      "text": "Voice & positioning workshop",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 2, cell 2",
+      "text": "A 90-minute conversation with Gladwyn and a written voice guide that captures how he writes and speaks",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 2, cell 3",
+      "text": "R 4,000",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 3, cell 1",
+      "text": "LinkedIn profile audit",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 3, cell 2",
+      "text": "A review of the profile, recent activity, network and a benchmark against five peers",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 3, cell 3",
+      "text": "R 3,500",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 4, cell 1",
+      "text": "Profile optimisation",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 4, cell 2",
+      "text": "Headline, About section, experience, featured section and skills rewritten and implemented with approval",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 4, cell 3",
+      "text": "R 3,000",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 5, cell 1",
+      "text": "Banner and profile visuals",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 5, cell 2",
+      "text": "A banner and featured-section graphics aligned with E Squared's brand",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 5, cell 3",
+      "text": "R 1,500",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 6, cell 1",
+      "text": "90-day content plan",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 6, cell 2",
+      "text": "Themes, post ideas and the first monthly calendar",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 6, cell 3",
+      "text": "R 2,000",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 7, cell 1",
+      "text": "Total onboarding (all options)",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 7, cell 3",
+      "text": "R 14,000",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 8, cell 1",
+      "text": "Initial stakeholder map (Options 2 and 3 only)",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 8, cell 2",
+      "text": "About 60 relevant people and organisations, with a reason to engage with each",
+      "present": true
+    },
+    {
+      "location": "Table 10, row 8, cell 3",
+      "text": "R 2,000",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 1, cell 2",
+      "text": "Option 1",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 1, cell 3",
+      "text": "Option 2",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 1, cell 4",
+      "text": "Option 3",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 2, cell 1",
+      "text": "One-off onboarding",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 2, cell 2",
+      "text": "R 14,000",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 2, cell 3",
+      "text": "R 16,000",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 2, cell 4",
+      "text": "R 16,000",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 3, cell 1",
+      "text": "12 months of service",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 3, cell 2",
+      "text": "R 114,000",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 3, cell 3",
+      "text": "R 232,800",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 3, cell 4",
+      "text": "R 441,600",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 4, cell 1",
+      "text": "First-year total (excl. VAT)",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 4, cell 2",
+      "text": "R 128,000",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 4, cell 3",
+      "text": "R 248,800",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 4, cell 4",
+      "text": "R 457,600",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 5, cell 1",
+      "text": "VAT (15%)",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 5, cell 2",
+      "text": "R 19,200",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 5, cell 3",
+      "text": "R 37,320",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 5, cell 4",
+      "text": "R 68,640",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 6, cell 1",
+      "text": "First-year total (incl. VAT)",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 6, cell 2",
+      "text": "R 147,200",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 6, cell 3",
+      "text": "R 286,120",
+      "present": true
+    },
+    {
+      "location": "Table 11, row 6, cell 4",
+      "text": "R 526,240",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 1, cell 1",
+      "text": "Step",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 1, cell 2",
+      "text": "How it works",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 2, cell 1",
+      "text": "Monthly calendar",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 2, cell 2",
+      "text": "We send a proposed calendar of topics and post ideas by the 20th of each month for the following month, for Gladwyn's input and approval",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 3, cell 1",
+      "text": "Drafting",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 3, cell 2",
+      "text": "Each post is drafted and designed at least five working days before it is due",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 4, cell 1",
+      "text": "Approval",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 4, cell 2",
+      "text": "Gladwyn approves, edits or rejects each post, ideally within 48 hours. Nothing is published without his approval",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 5, cell 1",
+      "text": "Engagement",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 5, cell 2",
+      "text": "Replies follow written guidelines agreed in onboarding. Anything about investments, valuations, personnel, politics, legal matters or a complaint is escalated to Gladwyn or the right E Squared contact before a reply",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 6, cell 1",
+      "text": "Investor and founder messages",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 6, cell 2",
+      "text": "Pitches and funding requests are acknowledged politely and directed to E Squared's official channels. We never promise funding, a meeting or a response time on his behalf",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 7, cell 1",
+      "text": "Reporting",
+      "present": true
+    },
+    {
+      "location": "Table 12, row 7, cell 2",
+      "text": "A monthly report within the first week of the following month, and a quarterly strategy review in Options 2 and 3",
+      "present": true
+    },
+    {
+      "location": "Table 13, row 1, cell 1",
+      "text": "Account Access and Security",
+      "present": true
+    },
+    {
+      "location": "Table 13, row 1, cell 1",
+      "text": "Publishing and engagement both need some form of access to Gladwyn's account. LinkedIn's terms generally expect individuals to keep their own login details private, so we recommend an arrangement that does not involve sharing his password, for example posting and replying from our approved drafts through his office, or another method that E Squared's IT and compliance team approves. We will agree the method in onboarding. If direct access is not possible, we supply ready-to-post packs and draft replies, and the fees stay the same.",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 1, cell 1",
+      "text": "Measure",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 1, cell 2",
+      "text": "What we report",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 2, cell 1",
+      "text": "Publishing",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 2, cell 2",
+      "text": "Posts published against the agreed calendar, with approval turnaround",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 3, cell 1",
+      "text": "Content performance",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 3, cell 2",
+      "text": "Impressions, engagement rate, comments, shares and the best and weakest posts, with lessons",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 4, cell 1",
+      "text": "Audience growth",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 4, cell 2",
+      "text": "Follower and connection growth, and the share of new connections in the target stakeholder groups",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 5, cell 1",
+      "text": "Engagement activity (Options 2 and 3)",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 5, cell 2",
+      "text": "Comments made, replies sent and response times, outreach sent and accepted, and conversations started",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 6, cell 1",
+      "text": "Profile visibility",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 6, cell 2",
+      "text": "Profile views and search appearances",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 7, cell 1",
+      "text": "Quality of the network",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 7, cell 2",
+      "text": "Movement in connections among investors, founders, fund managers, corporates and policymakers",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 8, cell 1",
+      "text": "Recommendations",
+      "present": true
+    },
+    {
+      "location": "Table 14, row 8, cell 2",
+      "text": "What to do more of, what to stop and next month's focus",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 1, cell 1",
+      "text": "Area",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 1, cell 2",
+      "text": "How we handle it",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 2, cell 1",
+      "text": "Investment communications",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 2, cell 2",
+      "text": "Content does not give investment advice or make claims about returns that E Squared has not published or approved. Figures come from the published Impact Report and are cited correctly and dated.",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 3, cell 1",
+      "text": "Portfolio and founder content",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 3, cell 2",
+      "text": "Portfolio companies and founders are named only with their written consent, and we do not disclose confidential deal information or pipeline.",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 4, cell 1",
+      "text": "Allan Gray and other partners",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 4, cell 2",
+      "text": "References to Allan Gray, Allan & Gill Gray Philanthropies and other partners are factual, approved by E Squared and do not imply endorsement.",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 5, cell 1",
+      "text": "Forward-looking statements",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 5, cell 2",
+      "text": "Statements about plans or targets are approved by Gladwyn and E Squared, and phrased carefully.",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 6, cell 1",
+      "text": "Authenticity",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 6, cell 2",
+      "text": "Content is written in his voice from his ideas and approved by him. We do not use fake accounts, purchased connections, engagement pods or automation that breaches LinkedIn's rules.",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 7, cell 1",
+      "text": "Sensitive topics",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 7, cell 2",
+      "text": "Transformation, race, gender and politics are discussed with care and with E Squared's approval, in line with the firm's published positions.",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 8, cell 1",
+      "text": "Data and privacy",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 8, cell 2",
+      "text": "Personal information about people he engages with is handled in line with POPIA and is not shared or sold.",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 9, cell 1",
+      "text": "Reputation and conflicts",
+      "present": true
+    },
+    {
+      "location": "Table 15, row 9, cell 2",
+      "text": "We monitor for negative or sensitive comments and escalate promptly, and we disclose other clients that could create a conflict.",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 1, cell 1",
+      "text": "Date",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 1, cell 2",
+      "text": "Milestone",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 2, cell 1",
+      "text": "Fri 30 Oct",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 2, cell 2",
+      "text": "Proposal due",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 3, cell 1",
+      "text": "Fri 6 Nov",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 3, cell 2",
+      "text": "Option selected and agreement signed (target)",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 4, cell 1",
+      "text": "Mon 9 Nov",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 4, cell 2",
+      "text": "Kick-off call with Gladwyn and the communications lead; confirm access method, approvers and guidelines",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 5, cell 1",
+      "text": "Wed 11 Nov",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 5, cell 2",
+      "text": "Voice and positioning workshop (90 minutes)",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 6, cell 1",
+      "text": "Fri 13 Nov",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 6, cell 2",
+      "text": "Audit data collected: profile, activity, analytics and peer benchmark",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 7, cell 1",
+      "text": "Fri 20 Nov",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 7, cell 2",
+      "text": "Profile audit report and recommendations delivered; 90-day content plan drafted",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 8, cell 1",
+      "text": "Wed 25 Nov",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 8, cell 2",
+      "text": "Profile optimisation approved and implemented; banner and featured graphics live",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 9, cell 1",
+      "text": "Fri 27 Nov",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 9, cell 2",
+      "text": "December content calendar approved",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 10, cell 1",
+      "text": "Tue 1 Dec",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 10, cell 2",
+      "text": "First post of the new programme goes live (Options 2 and 3 begin engagement and outreach)",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 11, cell 1",
+      "text": "Tue 15 Dec",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 11, cell 2",
+      "text": "Second December post; festive-period plan for engagement",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 12, cell 1",
+      "text": "Fri 8 Jan 2027",
+      "present": true
+    },
+    {
+      "location": "Table 16, row 12, cell 2",
+      "text": "First monthly report: baseline and December performance",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 1, cell 1",
+      "text": "#",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 1, cell 2",
+      "text": "Item",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 1, cell 3",
+      "text": "Why we need it",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 2, cell 1",
+      "text": "1",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 2, cell 2",
+      "text": "Gladwyn's LinkedIn profile link and analytics (or an export) for the audit",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 2, cell 3",
+      "text": "To set the baseline",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 3, cell 1",
+      "text": "2",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 3, cell 2",
+      "text": "E Squared's brand guidelines, logo and any messaging or media positioning documents",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 3, cell 3",
+      "text": "To align with the firm's positioning",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 4, cell 1",
+      "text": "3",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 4, cell 2",
+      "text": "The latest Impact Report, approved facts and any topics to avoid",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 4, cell 3",
+      "text": "To keep content accurate",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 5, cell 1",
+      "text": "4",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 5, cell 2",
+      "text": "Who manages E Squared's company page and any other agency",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 5, cell 3",
+      "text": "To coordinate and avoid overlap",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 6, cell 1",
+      "text": "5",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 6, cell 2",
+      "text": "A named approver for posts and a contact for sensitive items",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 6, cell 3",
+      "text": "To protect the timeline",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 7, cell 1",
+      "text": "6",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 7, cell 2",
+      "text": "E Squared's preferred account access method, approved by IT and compliance",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 7, cell 3",
+      "text": "To agree how we publish and reply",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 8, cell 1",
+      "text": "7",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 8, cell 2",
+      "text": "The people and organisations Gladwyn most wants to engage",
+      "present": true
+    },
+    {
+      "location": "Table 17, row 8, cell 3",
+      "text": "To build the stakeholder map",
+      "present": true
+    },
+    {
+      "location": "Table 18, row 1, cell 2",
+      "text": "E Squared Investments",
+      "present": true
+    },
+    {
+      "location": "Table 18, row 1, cell 3",
+      "text": "Teluka Mzuri",
+      "present": true
+    },
+    {
+      "location": "Table 18, row 2, cell 1",
+      "text": "Option selected",
+      "present": true
+    },
+    {
+      "location": "Table 18, row 2, cell 2",
+      "text": "□ Option 1     □ Option 2     □ Option 3",
+      "present": true
+    },
+    {
+      "location": "Table 18, row 3, cell 1",
+      "text": "Name & title",
+      "present": true
+    },
+    {
+      "location": "Table 18, row 3, cell 3",
+      "text": "Tendai Mhlanga, Creative Direction and Stakeholder Relations Officer",
+      "present": true
+    },
+    {
+      "location": "Table 18, row 4, cell 1",
+      "text": "Signature",
+      "present": true
+    },
+    {
+      "location": "Table 18, row 5, cell 1",
+      "text": "Date",
+      "present": true
+    },
+    {
+      "location": "Table 19, row 1, cell 1",
+      "text": "A CEO voice that investors, founders and partners recognise",
+      "present": true
+    },
+    {
+      "location": "Table 19, row 1, cell 1",
+      "text": "Teluka Mzuri Strategic Branding & Corporate Communications",
+      "present": true
+    },
+    {
+      "location": "Table 19, row 1, cell 1",
+      "text": "agency@telukamzuri.co.za   |   +27 76 507 7423   |   Johannesburg, South Africa",
+      "present": true
+    }
+  ]
+}
